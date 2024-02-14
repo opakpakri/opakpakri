@@ -1,3 +1,4 @@
+[![Banner](https://cdn.discordapp.com/attachments/747736550456164412/1207329310214721587/Aufa_Fakhri.png?ex=65df400a&is=65cccb0a&hm=a715397d1682ea2964a41e660b95adb2dac507a9cede951bb07edd41d769974e&)](https://github.com/opakpakri)
 ### Hi! 👋 I'm Aufa Fakhri.
 Mobile Development Cohort at Bangkit Academy 2024 led by Google, Tokopedia, Gojek & Traveloka | Data Analyst Enthusiast | Undergraduate Information System at UPN Veteran Jakarta
 
