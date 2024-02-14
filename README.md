@@ -20,13 +20,13 @@ BTW Nice to meet you!!
 
 ### Let's Connect!
 <p> 
-  <a href="https://www.linkedin.com/in/aufafakhri/"target="_blank">
+  <a href="https://www.linkedin.com/in/aufafakhri/"target="blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/opakpakri_/"target="_blank">
+  <a href="https://www.instagram.com/opakpakri_/"target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="https://discord.gg/masopak" target="_blank">
+  <a href="https://discord.gg/masopak" target="blank">
     <img align="discord" src="https://img.shields.io/badge/discord-6064f4.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
