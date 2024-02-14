@@ -30,3 +30,7 @@ BTW Nice to meet you!!
     <img align="Facebook" src="https://img.shields.io/badge/facebook-1064fc.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=opakpakri&label=Profile%20views&color=0e75b6&style=flat" alt="opakpakri" /> 
+</div>
