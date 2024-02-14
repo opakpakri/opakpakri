@@ -26,7 +26,7 @@ BTW Nice to meet you!!
   <a href="https://www.instagram.com/opakpakri_/"target="blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="https://discord.gg/masopak" target="blank">
-    <img align="discord" src="https://img.shields.io/badge/discord-6064f4.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.facebook.com/aufafakhri.aufafakhri" target="blank">
+    <img align="Facebook" src="https://img.shields.io/badge/facebook-1064fc.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
