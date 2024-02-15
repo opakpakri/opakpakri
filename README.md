@@ -1,5 +1,6 @@
 [![Banner](https://cdn.discordapp.com/attachments/747736550456164412/1207330302972919898/Aufa_Fakhri_1.png?ex=65df40f7&is=65cccbf7&hm=710d981444cbb64439d3bc62977a2f61244f4c80b90fd386eca2293fe393f2a8&)](https://github.com/opakpakri)
-### Hi! 👋 I'm Aufa Fakhri.
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aufa Fakhri.
+
 Mobile Development Cohort at Bangkit Academy 2024 led by Google, Tokopedia, Gojek & Traveloka | Data Analyst Enthusiast | Undergraduate Information System at UPN Veteran Jakarta
 
 Hello, my name is Aufa Fakhri call me Opak 😁. I created a GitHub account to showcase and store some of the projects I've previously worked on. This allows me to organize my work more effectively and potentially use it in the future. 
