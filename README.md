@@ -8,6 +8,8 @@ Hello, my name is Aufa Fakhri call me Opak 😁. I created a GitHub account to s
 
 BTW Nice to meet you!!
 
+THIS IS OLD GIT HUB PROFILE IM STILL ALIVE BUT TO LAZY TO UPDATE THIS THING T^T
+
 - 👀 I’m interested in Mobile Development, Data Analyst, UI/UX
 - 🌱 I’m currently learning ... Kotlin Android
 - 😄 Pronouns: ... Opak
