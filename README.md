@@ -1,53 +1,50 @@
-<img src="https://github.com/opakpakri/Github-User-Application/assets/129014865/ef67a8d4-73ba-4e45-96e3-acc89eaa4288" width="100%">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aufa Fakhri (Opak)
 
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aufa Fakhri (Opak)
-
-**Software Developer | Mobile Development Specialist | Information Systems Graduate**
-
-I am an Information Systems graduate from **UPN Veteran Jakarta** and an alumnus of **Bangkit Academy 2024 (Mobile Development Path)**. I am passionate about building seamless mobile experiences and exploring the world of data.
-
-- 🎓 **Education:** B.S. in Information Systems, UPN Veteran Jakarta
-- 🚀 **Alumnus:** Bangkit Academy 2024 (Mobile Development)
-- 🛠️ **Current Focus:** Android Development (Kotlin) & Full-stack Web Development
-- 💬 **Ask me about:** Android (Kotlin/Compose), React.js, or why people call me "Opak"
+I am a **Software Developer** and an **Information Systems Graduate** from **UPN Veteran Jakarta**. I’m passionate about building robust mobile and web applications, leveraging my background as a **Bangkit Academy 2024 Alumni** (Mobile Development path).
 
 ---
 
-### 💻 Tech Stack & Tools
+### 👨‍💻 About Me
+
+- 🎓 **Education:** B.S. in Information Systems, UPN "Veteran" Jakarta.
+- 🚀 **Background:** Mobile Development Cohort @ Bangkit Academy 2024.
+- 🔭 **Current Focus:** Deep diving into **PHP** and Backend Development.
+- 🌱 **Learning:** Enhancing my skills in building scalable web architectures and refining my Kotlin Android expertise.
+- 😄 **Pronouns:** He/Him (or just call me **Opak**!)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Mobile:** Kotlin, Android Studio, Jetpack Compose
+- **Web (Current Deep Dive):** PHP, Laravel/CodeIgniter, JavaScript (React.js)
+- **Database:** MySQL, Firebase
+- **Tools:** Git, GitHub, Figma (UI/UX)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="https://github.com/opakpakri">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=opakpakri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Aufa's Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=opakpakri&layout=compact&theme=algolia" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
 
-### 📊 Github Statistics
-
-<p align="left">
-<a href="https://github.com/opakpakri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=opakpakri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=opakpakri&layout=compact&theme=algolia"/>
-</a>
-</p>
-
----
-
-### 📫 Let's Connect!
+### 🤝 Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aufafakhri/" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/opakpakri_/" target="blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=opakpakri&label=Profile%20views&color=0e75b6&style=flat" alt="opakpakri" /> 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=opakpakri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
