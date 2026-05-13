@@ -1,3 +1,5 @@
+<img src="https://github.com/opakpakri/Github-User-Application/assets/129014865/ef67a8d4-73ba-4e45-96e3-acc89eaa4288">
+
 # Hi there! I'm Aufa Fakhri (Opak) 👋
 
 <p align="left">
