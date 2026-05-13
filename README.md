@@ -1,11 +1,11 @@
 <img src="https://github.com/opakpakri/Github-User-Application/assets/129014865/ef67a8d4-73ba-4e45-96e3-acc89eaa4288">
 
-### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aufa Fakhri.
-
 <p align="left">
 <img src="https://img.shields.io/badge/Status-Software%20Developer-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
+
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aufa Fakhri.
 
 I'm a **Software Developer** and Information Systems graduate from **UPN Veteran Jakarta**. I’m a **Bangkit Academy 2024 Alumni** (Mobile Development path), where I honed my skills in building robust Android applications.
 
