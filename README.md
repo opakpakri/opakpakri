@@ -1,7 +1,7 @@
-<img src="https://github.com/opakpakri/Github-User-Application/assets/129014865/ef67a8d4-73ba-4e45-96e3-acc89eaa4288">
 <p align="left">
 <img src="https://img.shields.io/badge/Status-Software%20Developer-blue?style=for-the-badge">
 </p>
+<img src="https://github.com/opakpakri/Github-User-Application/assets/129014865/ef67a8d4-73ba-4e45-96e3-acc89eaa4288">
 
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aufa Fakhri.
 
