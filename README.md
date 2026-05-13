@@ -35,20 +35,15 @@ Currently, I'm shifting gears and diving deeper into **PHP ecosystem** to broade
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
-I'm always open to collaborating on interesting projects or just talking about tech (and maybe some gaming/hardware stuff too!).
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aufafakhri/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p> 
+  <a href="https://www.linkedin.com/in/aufafakhri/"target="blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/opakpakri_/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/aufafakhri.aufafakhri" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://www.instagram.com/opakpakri_/"target="blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
 </p>
 
 <p align="center">
